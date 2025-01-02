@@ -8,7 +8,7 @@ import
   ]
 
 import
-  src/[
+  yubikey_otp/[
     modhex
   ]
 
